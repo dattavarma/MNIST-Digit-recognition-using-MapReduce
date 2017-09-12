@@ -1,0 +1,1 @@
+To give the image as input, we used the library obtained in DL4J examples. So to test the image you must have downloaded the certain codes provided by DL4J example.
